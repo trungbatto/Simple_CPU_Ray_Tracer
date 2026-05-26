@@ -11,7 +11,7 @@ What’s Included
 	CMakeLists.txt for building with CMake/Visual Studio
 
 
- Note: Compiled executables (raytracer.exe) and build folders are not included in this submission to reduce file size.
+ Note: Compiled executables (raytracer.exe) and build folders are not included in this project to reduce file size.
 
 
 How to Build & Run
